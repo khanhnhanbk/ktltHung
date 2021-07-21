@@ -1,0 +1,23 @@
+Civic;Honda;Error Thang;99-H77060
+Fadil;Vinfast;Error May Lanh;29-K56789
+Civic;Honda;Error Nhip;49-S48838
+Inova;Toyota;Error Tui khi;29-P105050
+City;Honda;Error Nhip;51B077.69
+Inova;Toyota;Error Hop so;59-K116968
+Lux A;Vinfast;Error Truc lai;17-B188888
+Fadil;Vinfast;Error May Lanh;59-D122222
+Camry;Toyota;Error Tui khi;62-A00832
+Fadil;Vinfast;Error May Lanh;65-H30999
+Inova;Toyota;Error Tui khi;30A-12893
+Camry;Toyota;Error Tui khi;62-A00832
+Fadil;Vinfast;Error May Lanh;65-H30999
+Inova;Toyota;Error Tui khi;30A-12893
+Camry;Toyota;Error Tui khi;62-A00832
+Fadil;Vinfast;Error May Lanh;65-H30999
+Inova;Toyota;Error Tui khi;30A-12893
+Camry;Toyota;Error Tui khi;62-A00832
+Fadil;Vinfast;Error May Lanh;65-H30999
+Inova;Toyota;Error Tui khi;30A-12893
+Camry;Toyota;Error Tui khi;62-A00832
+Fadil;Vinfast;Error May Lanh;65-H30999
+Inova;Toyota;Error Tui khi;30A-12893
